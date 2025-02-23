@@ -10,7 +10,7 @@ import base64
 from twilio.rest import Client  # Twilio import
 
 # Twilio configuration
-TWILIO_ACCOUNT_SID = ""  # Replace with your Twilio account SID
+TWILIO_ACCOUNT_SID = "ACb537fa3d3339cd5a3470385a959ab71f"  # Replace with your Twilio account SID
 TWILIO_AUTH_TOKEN = "9751644f527edd8ed93e941145f656f6"    # Replace with your Twilio auth token
 TWILIO_PHONE_NUMBER ="+12095070802"      # Replace with your Twilio phone number
 
