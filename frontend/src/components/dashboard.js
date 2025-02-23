@@ -7,7 +7,7 @@ import { useLocation ,useNavigate} from 'react-router-dom';
 import axios from 'axios';
 
 const Dashboard = () => {
-  const [userData, setUserData] = useState(null)
+  const [userData, setUserData] = useState(null);
   const [expanded, setExpanded] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(null);
